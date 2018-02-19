@@ -1,25 +1,10 @@
 body{
-  color: darkblue;
-  background-color: ivory;
-  margin: 10px 50px 10px 50px;
-  font-family: 'Open Sans', sans-serif;
+  margin-top: 50px;
 }
 
-h1 {
-  font-family: 'Oswald', sans-serif;
+h1,h2 {
+  color: #4183C4
 }
-
-h2 {
-  font-family: 'Oswald', sans-serif;
-}
-
-.columns {
-  float: left;
-  width: 300px;
-  padding: 0px 40px 0px 40px;
-}
-
-.toccolumns {
-  float: none;
-  padding: 0px 100px 0px 100px;
+.smaller-image{
+  width:100px;
 }
